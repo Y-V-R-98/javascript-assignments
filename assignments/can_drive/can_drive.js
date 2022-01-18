@@ -3,10 +3,10 @@ function CanDrive(hasDrivingLiscence, isTired, isSober) {
     if (hasDrivingLiscence === false){
         return("You cannot drive")
     } else {
-        if (isTired == true) {
+        if (isTired === true) {
             return("You shouldn't drive")
         } else {
-            if (isSober == true) {
+            if (isSober === true) {
                 return("You can drive")
             } else {
                 return("You shouldn't drive")
