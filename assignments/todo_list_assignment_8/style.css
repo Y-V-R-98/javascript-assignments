@@ -1,0 +1,15 @@
+.list, .getting {
+    padding: 2%;
+    border: 2px solid blue;
+    background: black;
+    color: white;
+}
+
+#get {
+    margin: 3%;
+    width : 80px;
+    height : 40px;
+    border-radius: 3px;
+    background: rgb(107, 216, 211);
+    color:rgb(155, 22, 22);
+}
